@@ -40,8 +40,8 @@ projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "7.x-1.2"
 
 ; Context
-projects[contex][subdir] = "contrib"
-projects[contex][version] = "3.0-beta6"
+projects[context][subdir] = "contrib"
+projects[context][version] = "3.0-beta6"
 
 ; Custom breadcrumbs
 projects[custom_breadcrumbs][subdir] = "contrib"
