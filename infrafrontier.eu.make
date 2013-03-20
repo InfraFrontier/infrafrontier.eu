@@ -37,7 +37,7 @@ projects[rename_admin_paths][version] = "1.2-beta1"
 
 ; Chaos chaos tools
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "7.x-1.2"
+projects[ctools][version] = "1.2"
 
 ; Context
 projects[context][subdir] = "contrib"
