@@ -7,7 +7,7 @@ api = 2
 projects[infrafrontier][type] = "theme"
 projects[infrafrontier][subdir] = "custom"
 projects[infrafrontier][download][type] = "git"
-projects[infrafrontier][download][url] = "http://ves-ebi-0c.ebi.ac.uk/repositories/drupal/mi/themes/infrafrontier.git"
+projects[infrafrontier][download][url] = "http://ves-ebi-0c.ebi.ac.uk/repositories/mi/drupal/themes/infrafrontier.git"
 projects[infrafrontier][download][branch] = "7.x-1.0"
 
 ; CUSTOM MODULES
