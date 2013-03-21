@@ -1,4 +1,4 @@
-core = 7.17
+core = 7.20
 api = 2
 
 ; CUSTOM THEMES
@@ -33,7 +33,7 @@ projects[admin_menu][version] = "3.0-rc4"
 
 ; Content Access Control
 projects[content_access][subdir] = "contrib"
-projects[rename_admin_paths][version] = "1.2-beta1"
+projects[content_access][version] = "1.2-beta1"
 
 ; Chaos chaos tools
 projects[ctools][subdir] = "contrib"
@@ -112,8 +112,8 @@ projects[views][subdir] = "contrib"
 projects[views][version] = "3.5"
 
 ; Views field view
-projects[views][subdir] = "contrib"
-projects[views][version] = "1.0"
+projects[views_fields_view][subdir] = "contrib"
+projects[views_fields_view][version] = "1.0"
 
 ; Weight
 projects[weight][subdir] = "contrib"
