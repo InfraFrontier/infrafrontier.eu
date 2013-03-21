@@ -112,8 +112,8 @@ projects[views][subdir] = "contrib"
 projects[views][version] = "3.5"
 
 ; Views field view
-projects[views_fields_view][subdir] = "contrib"
-projects[views_fields_view][version] = "1.0"
+projects[views_field_view][subdir] = "contrib"
+projects[views_field_view][version] = "1.0"
 
 ; Weight
 projects[weight][subdir] = "contrib"
