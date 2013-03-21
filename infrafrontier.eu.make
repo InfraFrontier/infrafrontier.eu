@@ -1,4 +1,4 @@
-core = 7.20
+core = 7.x
 api = 2
 
 ; CUSTOM THEMES
