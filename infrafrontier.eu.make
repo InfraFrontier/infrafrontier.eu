@@ -7,21 +7,21 @@ api = 2
 projects[infrafrontier][type] = "theme"
 projects[infrafrontier][subdir] = "custom"
 projects[infrafrontier][download][type] = "git"
-projects[infrafrontier][download][url] = "http://ves-ebi-0c.ebi.ac.uk/repositories/mi/drupal/themes/infrafrontier.git"
+projects[infrafrontier][download][url] = "https://scm.ebi.ac.uk/repositories/mi/drupal/themes/infrafrontier.git"
 projects[infrafrontier][download][branch] = "7.x-1.0"
 
 ; CUSTOM MODULES
 ; Infrablocks
 projects[infrablocks][type] = "module"
 projects[infrablocks][download][type] = "git"
-projects[infrablocks][download][url] = "http://ves-ebi-0c.ebi.ac.uk/repositories/mi/drupal/modules/infrablocks.git"
+projects[infrablocks][download][url] = "https://scm.ebi.ac.uk/repositories/mi/drupal/modules/infrablocks.git"
 projects[infrablocks][download][branch] = "7.x-1.0"
 projects[infrablocks][subdir] = "custom"
 
 ; Infrashortcodes
 projects[infrashortcodes][type] = "module"
 projects[infrashortcodes][download][type] = "git"
-projects[infrashortcodes][download][url] = "http://ves-ebi-0c.ebi.ac.uk/repositories/mi/drupal/modules/infrashortcodes.git"
+projects[infrashortcodes][download][url] = "https://scm.ebi.ac.uk/repositories/mi/drupal/modules/infrashortcodes.git"
 projects[infrashortcodes][download][branch] = "7.x-1.0"
 projects[infrashortcodes][subdir] = "custom"
 
