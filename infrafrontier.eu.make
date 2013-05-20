@@ -5,10 +5,10 @@ api = 2
 
 ; INFRAFRONTIER
 projects[infrafrontier][type] = "theme"
-projects[transplant][subdir] = "custom"
-projects[transplant][download][type] = "git"
-projects[transplant][download][url] = "http://ves-ebi-0c.ebi.ac.uk/repositories/drupal/mi/themes/infrafrontier.git"
-projects[transplant][download][branch] = "7.x-1.0"
+projects[infrafrontier][subdir] = "custom"
+projects[infrafrontier][download][type] = "git"
+projects[infrafrontier][download][url] = "http://ves-ebi-0c.ebi.ac.uk/repositories/mi/drupal/themes/infrafrontier.git"
+projects[infrafrontier][download][branch] = "7.x-1.0"
 
 ; CUSTOM MODULES
 ; Infrablocks
@@ -40,8 +40,8 @@ projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "7.x-1.2"
 
 ; Context
-projects[contex][subdir] = "contrib"
-projects[contex][version] = "3.0-beta6"
+projects[context][subdir] = "contrib"
+projects[context][version] = "3.0-beta6"
 
 ; Custom breadcrumbs
 projects[custom_breadcrumbs][subdir] = "contrib"
