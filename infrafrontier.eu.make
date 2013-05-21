@@ -122,3 +122,11 @@ projects[weight][version] = "2.2"
 ; Wysiwyg
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
+
+; View_unpublished
+projects[view_unpublished][subdir] = "contrib"
+projects[view_unpublished][version] = "1.1"
+
+; LDAP
+projects[ldap][subdir] = "contrib"
+projects[ldap][version] = "2.0-beta5"
