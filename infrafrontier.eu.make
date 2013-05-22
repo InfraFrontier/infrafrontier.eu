@@ -37,7 +37,7 @@ projects[content_access][version] = "1.2-beta1"
 
 ; Chaos chaos tools
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.2"
+projects[ctools][version] = "1.3"
 
 ; Context
 projects[context][subdir] = "contrib"
@@ -129,4 +129,10 @@ libraries[tinymce][download][type] = "get"
 libraries[tinymce][download][url] = "http://github.com/downloads/tinymce/tinymce/tinymce_3.5.5.zip"
 libraries[tinymce][directory_name] = "tinymce"
 
+; View_unpublished
+projects[view_unpublished][subdir] = "contrib"
+projects[view_unpublished][version] = "1.1"
 
+; LDAP
+projects[ldap][subdir] = "contrib"
+projects[ldap][version] = "2.0-beta5"
