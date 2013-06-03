@@ -63,9 +63,17 @@ projects[field_collection][version] = "1.0-beta5"
 projects[field_group][subdir] = "contrib"
 projects[field_group][version] = "1.1"
 
+; File access
+projects[file_access][subdir] = "contrib"
+projects[file_access][version] = "1.x-dev"
+
 ; IMCE
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.7"
+
+; IMCE Tools
+projects[imce_tools][subdir] = "contrib"
+projects[imce_tools][version] = "1.1"
 
 ; IMCE Wysiwyg
 projects[imce_wysiwyg][subdir] = "contrib"
