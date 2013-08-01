@@ -79,6 +79,12 @@ projects[imce_tools][version] = "1.1"
 projects[imce_wysiwyg][subdir] = "contrib"
 projects[imce_wysiwyg][version] = "1.0"
 
+; LDAP
+projects[ldap][subdir] = "contrib"
+projects[ldap][version] = "2.0-beta5"
+
+includes[ldap_servers] = ldap_servers.make
+
 ; Menu Block
 projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = "2.3"
@@ -141,6 +147,3 @@ libraries[tinymce][directory_name] = "tinymce"
 projects[view_unpublished][subdir] = "contrib"
 projects[view_unpublished][version] = "1.1"
 
-; LDAP
-projects[ldap][subdir] = "contrib"
-projects[ldap][version] = "2.0-beta5"
