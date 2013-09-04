@@ -67,6 +67,10 @@ projects[field_group][version] = "1.1"
 projects[file_access][subdir] = "contrib"
 projects[file_access][version] = "1.x-dev"
 
+; Google Analytics
+projects[google_analytics][subdir] = "contrib"
+projects[google_analytics][version] = "1.3"
+
 ; IMCE
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.7"
@@ -83,6 +87,7 @@ projects[imce_wysiwyg][version] = "1.0"
 projects[ldap][subdir] = "contrib"
 projects[ldap][version] = "2.0-beta5"
 
+; Server patch for unicodePasswd to be used with Active Directory
 includes[ldap_servers] = ldap_servers.make
 
 ; Menu Block
