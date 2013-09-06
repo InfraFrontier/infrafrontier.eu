@@ -40,8 +40,8 @@ projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.3"
 
 ; Context
-projects[cookiecontrol][subdir] = "contrib"
-projects[cookiecontrol][version] = "3.0-beta6"
+projects[context][subdir] = "contrib"
+projects[context][version] = "3.0-beta6"
 
 ; cookiecontrol
 projects[cookiecontrol][subdir] = "contrib"
