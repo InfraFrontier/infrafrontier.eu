@@ -1,4 +1,4 @@
-core = 7.17
+core = 7.x
 api = 2
 
 ; CUSTOM THEMES
@@ -33,15 +33,19 @@ projects[admin_menu][version] = "3.0-rc4"
 
 ; Content Access Control
 projects[content_access][subdir] = "contrib"
-projects[rename_admin_paths][version] = "1.2-beta1"
+projects[content_access][version] = "1.2-beta1"
 
 ; Chaos chaos tools
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "7.x-1.2"
+projects[ctools][version] = "1.3"
 
 ; Context
 projects[context][subdir] = "contrib"
 projects[context][version] = "3.0-beta6"
+
+; cookiecontrol
+projects[cookiecontrol][subdir] = "contrib"
+projects[cookiecontrol][version] = "1.6"
 
 ; Custom breadcrumbs
 projects[custom_breadcrumbs][subdir] = "contrib"
@@ -63,13 +67,32 @@ projects[field_collection][version] = "1.0-beta5"
 projects[field_group][subdir] = "contrib"
 projects[field_group][version] = "1.1"
 
+; File access
+projects[file_access][subdir] = "contrib"
+projects[file_access][version] = "1.x-dev"
+
+; Google Analytics
+projects[google_analytics][subdir] = "contrib"
+projects[google_analytics][version] = "1.3"
+
 ; IMCE
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.7"
 
+; IMCE Tools
+projects[imce_tools][subdir] = "contrib"
+projects[imce_tools][version] = "1.1"
+
 ; IMCE Wysiwyg
 projects[imce_wysiwyg][subdir] = "contrib"
 projects[imce_wysiwyg][version] = "1.0"
+
+; LDAP
+projects[ldap][subdir] = "contrib"
+projects[ldap][version] = "2.0-beta5"
+
+; Server patch for unicodePasswd to be used with Active Directory
+includes[ldap_servers] = ldap_servers.make
 
 ; Menu Block
 projects[menu_block][subdir] = "contrib"
@@ -112,8 +135,8 @@ projects[views][subdir] = "contrib"
 projects[views][version] = "3.5"
 
 ; Views field view
-projects[views][subdir] = "contrib"
-projects[views][version] = "1.0"
+projects[views_field_view][subdir] = "contrib"
+projects[views_field_view][version] = "1.0"
 
 ; Weight
 projects[weight][subdir] = "contrib"
@@ -123,10 +146,13 @@ projects[weight][version] = "2.2"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 
+; LIBRARIES
+; tinymce
+libraries[tinymce][download][type] = "get"
+libraries[tinymce][download][url] = "http://github.com/downloads/tinymce/tinymce/tinymce_3.5.5.zip"
+libraries[tinymce][directory_name] = "tinymce"
+
 ; View_unpublished
 projects[view_unpublished][subdir] = "contrib"
 projects[view_unpublished][version] = "1.1"
 
-; LDAP
-projects[ldap][subdir] = "contrib"
-projects[ldap][version] = "2.0-beta5"
