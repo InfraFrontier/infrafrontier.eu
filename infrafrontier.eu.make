@@ -126,7 +126,9 @@ projects[shortcode][version] = "2.0-alpha5"
 projects[spambot][subdir] = "contrib"
 projects[spambot][version] = "1.3"
 
-
+; spamicide 7.x-1.1
+projects[spamicide][subdir] = "contrib"
+projects[spamicide][version] = "1.1"
 
 ; Token
 projects[token][subdir] = "contrib"
