@@ -122,6 +122,12 @@ projects[pathauto][version] = "1.2"
 projects[shortcode][subdir] = "contrib"
 projects[shortcode][version] = "2.0-alpha5"
 
+; spambot 7.x-1.3
+projects[spambot][subdir] = "contrib"
+projects[spambot][version] = "1.3"
+
+
+
 ; Token
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
