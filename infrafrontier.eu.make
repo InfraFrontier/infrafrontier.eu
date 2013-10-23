@@ -94,6 +94,11 @@ projects[ldap][version] = "2.0-beta5"
 ; Server patch for unicodePasswd to be used with Active Directory
 includes[ldap_servers] = ldap_servers.make
 
+
+; Menu attributes
+projects[menu_attributes][subdir] = "contrib"
+projects[menu_attributes][version] = "1.0-rc2"
+
 ; Menu Block
 projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = "2.3"
