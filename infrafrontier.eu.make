@@ -71,10 +71,6 @@ projects[field_group][version] = "1.1"
 projects[file_access][subdir] = "contrib"
 projects[file_access][version] = "1.x-dev"
 
-; Google Analytics
-projects[google_analytics][subdir] = "contrib"
-projects[google_analytics][version] = "1.3"
-
 ; IMCE
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.7"
