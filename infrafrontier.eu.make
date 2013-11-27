@@ -155,6 +155,11 @@ projects[weight][version] = "2.2"
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 
+
+; XML sitemap
+projects[xmlsitemap][subdir] = "contrib"
+projects[xmlsitemap][version] = "2.0-rc2"
+
 ; LIBRARIES
 ; tinymce
 libraries[tinymce][download][type] = "get"
