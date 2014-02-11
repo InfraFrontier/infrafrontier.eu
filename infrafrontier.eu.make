@@ -147,6 +147,10 @@ projects[views][version] = "3.5"
 projects[views_field_view][subdir] = "contrib"
 projects[views_field_view][version] = "1.0"
 
+; WebForm
+projects[webform][subdir] = "contrib"
+projects[webform][version] = "3.19"
+
 ; Weight
 projects[weight][subdir] = "contrib"
 projects[weight][version] = "2.2"
