@@ -26,11 +26,11 @@ projects[infrashortcodes][download][branch] = "7.x-1.0"
 projects[infrashortcodes][subdir] = "custom"
 
 ; infrautils
-projects[infrautils][type] = "module"
-projects[infrautils][download][type] = "git"
-projects[infrautils][download][url] = "https://scm.ebi.ac.uk/repositories/mi/drupal/modules/infrautils.git"
-projects[infrautils][download][branch] = "7.x-1.0"
-projects[infrautils][subdir] = "custom"
+;projects[infrautils][type] = "module"
+;projects[infrautils][download][type] = "git"
+;projects[infrautils][download][url] = "https://scm.ebi.ac.uk/repositories/mi/drupal/modules/infrautils.git"
+;projects[infrautils][download][branch] = "7.x-1.0"
+;projects[infrautils][subdir] = "custom"
 
 ; CONTRIB MODULES
 
