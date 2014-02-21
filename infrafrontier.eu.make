@@ -90,6 +90,10 @@ projects[imce_tools][version] = "1.1"
 projects[imce_wysiwyg][subdir] = "contrib"
 projects[imce_wysiwyg][version] = "1.0"
 
+; jquery_update
+projects[jquery_update][subdir] = "contrib"
+projects[jquery_update][version] = "2.3"
+
 ; LDAP
 projects[ldap][subdir] = "contrib"
 projects[ldap][version] = "2.0-beta5"
